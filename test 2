@@ -1,2 +1,3 @@
 this is testing poll scm 
-this is to test schedulindg
+this is to test scheduling
+this is about commiting changes in existing file so that build will happen in the project by using poll scm technique.
